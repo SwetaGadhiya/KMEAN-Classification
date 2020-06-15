@@ -1,6 +1,6 @@
 To run the project,
 
-Your system have pre-installed python3.
+Your system should have pre-installed python3.
 Your system must have the following packages installed:
    
 * numpy
